@@ -170,6 +170,18 @@
     </dependency>
     <dependency>
       <groupId>com.unity3d.ads-mediation</groupId>
+      <artifactId>bidmachine-adapter</artifactId>
+      <version>4.3.11</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.bidmachine</groupId>
+      <artifactId>ads</artifactId>
+      <version>3.2.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.unity3d.ads-mediation</groupId>
       <artifactId>fyber-adapter</artifactId>
       <version>4.3.37</version>
       <scope>runtime</scope>
@@ -178,6 +190,18 @@
       <groupId>com.fyber</groupId>
       <artifactId>marketplace-sdk</artifactId>
       <version>8.3.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.unity3d.ads-mediation</groupId>
+      <artifactId>facebook-adapter</artifactId>
+      <version>4.3.48</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.android</groupId>
+      <artifactId>audience-network-sdk</artifactId>
+      <version>6.18.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -242,6 +266,36 @@
     </dependency>
     <dependency>
       <groupId>com.unity3d.ads-mediation</groupId>
+      <artifactId>smaato-adapter</artifactId>
+      <version>4.3.14</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.smaato.android.sdk</groupId>
+      <artifactId>smaato-sdk-banner</artifactId>
+      <version>22.7.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.smaato.android.sdk</groupId>
+      <artifactId>smaato-sdk-in-app-bidding</artifactId>
+      <version>22.7.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.smaato.android.sdk</groupId>
+      <artifactId>smaato-sdk-interstitial</artifactId>
+      <version>22.7.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.smaato.android.sdk</groupId>
+      <artifactId>smaato-sdk-rewarded-ads</artifactId>
+      <version>22.7.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.unity3d.ads-mediation</groupId>
       <artifactId>unityads-adapter</artifactId>
       <version>4.3.49</version>
       <scope>runtime</scope>
@@ -250,6 +304,18 @@
       <groupId>com.unity3d.ads</groupId>
       <artifactId>unity-ads</artifactId>
       <version>4.13.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.unity3d.ads-mediation</groupId>
+      <artifactId>verve-adapter</artifactId>
+      <version>4.3.4</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.pubnative</groupId>
+      <artifactId>hybid.sdk</artifactId>
+      <version>3.2.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

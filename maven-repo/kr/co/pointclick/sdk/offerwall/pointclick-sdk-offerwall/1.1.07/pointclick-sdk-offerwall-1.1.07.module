@@ -35,11 +35,11 @@
         {
           "name": "pointclick-sdk-offerwall-1.1.07.aar",
           "url": "pointclick-sdk-offerwall-1.1.07.aar",
-          "size": 2617688,
-          "sha512": "7c237a3a26f1d31910b1bc44243a8e364cccaacacffccb5c219e785c44f483165487fe5a03bd79c3292344f85cf31d6411c67bb05ff1e4218707b2b081157a7a",
-          "sha256": "a52a2e01a4547219fbf7f4aac50fc193ea124a2d0ca8b6f2869cf901420a25f8",
-          "sha1": "590fe6db1a476e1ae408a3c0b72c02c450459b5e",
-          "md5": "800f6016723e7855512d4875d9984e8c"
+          "size": 2617852,
+          "sha512": "c27b65fc575385df8b3ffe3f75bfe24bcf285c2360d4b1795a2eda9fbedccbd1c0a8cc88ba2fb483852a0467904eb28393f52aff8e35e3bba7f8680b65337d9d",
+          "sha256": "3f364b76dbd96cdb984cdce23362a7a9a39e6ccf0002e32f02df949ec3b2dfaa",
+          "sha1": "0d7de625ed313d037c9e893719f254d1f468b84c",
+          "md5": "0225f635211edbc9199af66b94574688"
         }
       ]
     },
@@ -229,6 +229,20 @@
         },
         {
           "group": "com.unity3d.ads-mediation",
+          "module": "bidmachine-adapter",
+          "version": {
+            "requires": "4.3.11"
+          }
+        },
+        {
+          "group": "io.bidmachine",
+          "module": "ads",
+          "version": {
+            "requires": "3.2.0"
+          }
+        },
+        {
+          "group": "com.unity3d.ads-mediation",
           "module": "fyber-adapter",
           "version": {
             "requires": "4.3.37"
@@ -239,6 +253,20 @@
           "module": "marketplace-sdk",
           "version": {
             "requires": "8.3.6"
+          }
+        },
+        {
+          "group": "com.unity3d.ads-mediation",
+          "module": "facebook-adapter",
+          "version": {
+            "requires": "4.3.48"
+          }
+        },
+        {
+          "group": "com.facebook.android",
+          "module": "audience-network-sdk",
+          "version": {
+            "requires": "6.18.0"
           }
         },
         {
@@ -313,6 +341,41 @@
         },
         {
           "group": "com.unity3d.ads-mediation",
+          "module": "smaato-adapter",
+          "version": {
+            "requires": "4.3.14"
+          }
+        },
+        {
+          "group": "com.smaato.android.sdk",
+          "module": "smaato-sdk-banner",
+          "version": {
+            "requires": "22.7.2"
+          }
+        },
+        {
+          "group": "com.smaato.android.sdk",
+          "module": "smaato-sdk-in-app-bidding",
+          "version": {
+            "requires": "22.7.2"
+          }
+        },
+        {
+          "group": "com.smaato.android.sdk",
+          "module": "smaato-sdk-interstitial",
+          "version": {
+            "requires": "22.7.2"
+          }
+        },
+        {
+          "group": "com.smaato.android.sdk",
+          "module": "smaato-sdk-rewarded-ads",
+          "version": {
+            "requires": "22.7.2"
+          }
+        },
+        {
+          "group": "com.unity3d.ads-mediation",
           "module": "unityads-adapter",
           "version": {
             "requires": "4.3.49"
@@ -323,6 +386,20 @@
           "module": "unity-ads",
           "version": {
             "requires": "4.13.1"
+          }
+        },
+        {
+          "group": "com.unity3d.ads-mediation",
+          "module": "verve-adapter",
+          "version": {
+            "requires": "4.3.4"
+          }
+        },
+        {
+          "group": "net.pubnative",
+          "module": "hybid.sdk",
+          "version": {
+            "requires": "3.2.1"
           }
         },
         {
@@ -358,11 +435,11 @@
         {
           "name": "pointclick-sdk-offerwall-1.1.07.aar",
           "url": "pointclick-sdk-offerwall-1.1.07.aar",
-          "size": 2617688,
-          "sha512": "7c237a3a26f1d31910b1bc44243a8e364cccaacacffccb5c219e785c44f483165487fe5a03bd79c3292344f85cf31d6411c67bb05ff1e4218707b2b081157a7a",
-          "sha256": "a52a2e01a4547219fbf7f4aac50fc193ea124a2d0ca8b6f2869cf901420a25f8",
-          "sha1": "590fe6db1a476e1ae408a3c0b72c02c450459b5e",
-          "md5": "800f6016723e7855512d4875d9984e8c"
+          "size": 2617852,
+          "sha512": "c27b65fc575385df8b3ffe3f75bfe24bcf285c2360d4b1795a2eda9fbedccbd1c0a8cc88ba2fb483852a0467904eb28393f52aff8e35e3bba7f8680b65337d9d",
+          "sha256": "3f364b76dbd96cdb984cdce23362a7a9a39e6ccf0002e32f02df949ec3b2dfaa",
+          "sha1": "0d7de625ed313d037c9e893719f254d1f468b84c",
+          "md5": "0225f635211edbc9199af66b94574688"
         }
       ]
     }
