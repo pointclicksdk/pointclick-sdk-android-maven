@@ -1,0 +1,214 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kr.co.pointclick.sdk.offerwall",
+    "module": "pointclick-sdk-offerwall",
+    "version": "1.0.16",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "pointclick-sdk-offerwall-1.0.16.aar",
+          "url": "pointclick-sdk-offerwall-1.0.16.aar",
+          "size": 2623043,
+          "sha512": "f0d21f981d14401219f830ec7331e96e39ffbe1ae7e61f37e924382d26528fa71bcbacfc1bf460adca6e01ace48589224ece2e5981d9a2519c60bd1833b462ae",
+          "sha256": "114ba8e1f6d5087cbd04d3587b2d816064fb62a1994358c8539f3847d7f6a815",
+          "sha1": "dd8615515dcb8ca3c42993de97179162c1e039bd",
+          "md5": "afc0ff17b04f1e32e788ac0ab1dd4ebb"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.4"
+          }
+        },
+        {
+          "group": "androidx.swiperefreshlayout",
+          "module": "swiperefreshlayout",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxandroid",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxjava",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.jakewharton.rxbinding2",
+          "module": "rxbinding",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "com.jakewharton.rxbinding2",
+          "module": "rxbinding-recyclerview-v7",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview-selection",
+          "version": {
+            "requires": "1.1.0-rc03"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.picasso",
+          "module": "picasso",
+          "version": {
+            "requires": "2.71828"
+          }
+        },
+        {
+          "group": "com.jakewharton",
+          "module": "butterknife",
+          "version": {
+            "requires": "10.2.3"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "com.jakewharton.retrofit",
+          "module": "retrofit2-rxjava2-adapter",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "3.5.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-ads-identifier",
+          "version": {
+            "requires": "17.1.0"
+          }
+        },
+        {
+          "group": "com.sothree.slidinguppanel",
+          "module": "library",
+          "version": {
+            "requires": "3.4.0"
+          }
+        },
+        {
+          "group": "com.makeramen",
+          "module": "roundedimageview",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "androidx.test.espresso",
+          "module": "espresso-contrib",
+          "version": {
+            "requires": "3.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pointclick-sdk-offerwall-1.0.16.aar",
+          "url": "pointclick-sdk-offerwall-1.0.16.aar",
+          "size": 2623043,
+          "sha512": "f0d21f981d14401219f830ec7331e96e39ffbe1ae7e61f37e924382d26528fa71bcbacfc1bf460adca6e01ace48589224ece2e5981d9a2519c60bd1833b462ae",
+          "sha256": "114ba8e1f6d5087cbd04d3587b2d816064fb62a1994358c8539f3847d7f6a815",
+          "sha1": "dd8615515dcb8ca3c42993de97179162c1e039bd",
+          "md5": "afc0ff17b04f1e32e788ac0ab1dd4ebb"
+        }
+      ]
+    }
+  ]
+}
