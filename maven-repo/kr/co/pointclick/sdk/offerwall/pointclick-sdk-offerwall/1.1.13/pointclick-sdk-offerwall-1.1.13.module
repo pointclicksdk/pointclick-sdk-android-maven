@@ -35,11 +35,11 @@
         {
           "name": "pointclick-sdk-offerwall-1.1.13.aar",
           "url": "pointclick-sdk-offerwall-1.1.13.aar",
-          "size": 2627476,
-          "sha512": "60578fd63b1f56cc9c4bdf8306d591977e64b59310f38655f726cdb83877bf8407eff9e728354d759caa99d6981734953650edaa5a30588b9d9e80ebde657633",
-          "sha256": "f34477fe2b9713a4d9281e19161ecd9c23a4af7d914c0cdbcea9e6133da5f502",
-          "sha1": "61997f90c9de7448ec35dbc560b2bf0a1e0053a8",
-          "md5": "3d4b0f264d50722c6583e33bee6597ea"
+          "size": 2627439,
+          "sha512": "8d57777d476e3e716ee7e57e010c94d922a57f886735d4939ca48a550e0b232255f52e01336811dfb2b845ee65bf7c1f487c6b5204ea7e7f989d54e2acc56c3d",
+          "sha256": "1513238b13d633e69c3c7672762105f8426a0bc04e83f0b4126c70e65d151a44",
+          "sha1": "c0d2621845e2a6d6ccf419f5a7f1353fbc2c97f5",
+          "md5": "d62ba62c67d6a9a69fb9baa1a2e5018d"
         }
       ]
     },
@@ -239,11 +239,11 @@
         {
           "name": "pointclick-sdk-offerwall-1.1.13.aar",
           "url": "pointclick-sdk-offerwall-1.1.13.aar",
-          "size": 2627476,
-          "sha512": "60578fd63b1f56cc9c4bdf8306d591977e64b59310f38655f726cdb83877bf8407eff9e728354d759caa99d6981734953650edaa5a30588b9d9e80ebde657633",
-          "sha256": "f34477fe2b9713a4d9281e19161ecd9c23a4af7d914c0cdbcea9e6133da5f502",
-          "sha1": "61997f90c9de7448ec35dbc560b2bf0a1e0053a8",
-          "md5": "3d4b0f264d50722c6583e33bee6597ea"
+          "size": 2627439,
+          "sha512": "8d57777d476e3e716ee7e57e010c94d922a57f886735d4939ca48a550e0b232255f52e01336811dfb2b845ee65bf7c1f487c6b5204ea7e7f989d54e2acc56c3d",
+          "sha256": "1513238b13d633e69c3c7672762105f8426a0bc04e83f0b4126c70e65d151a44",
+          "sha1": "c0d2621845e2a6d6ccf419f5a7f1353fbc2c97f5",
+          "md5": "d62ba62c67d6a9a69fb9baa1a2e5018d"
         }
       ]
     }
